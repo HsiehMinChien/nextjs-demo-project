@@ -1,10 +1,6 @@
-Example application using `next-offline` with Now 2.0
+An demo project for Next.js + Stylus
 
 ```sh
-$ yarn install
-$ yarn dev
+npm i
+npm run dev
 ```
-To deploy the example, just type `now`
-```
-$ now
-```# nextjs-demo-project
